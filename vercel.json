@@ -1,0 +1,6 @@
+{
+    "routes": [
+      { "src": "/(.*)", "dest": "/phonetic-json/$1" }
+    ]
+  }
+  
